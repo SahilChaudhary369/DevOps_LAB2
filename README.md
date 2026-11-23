@@ -1,10 +1,7 @@
 # DevOps Lab 2: Containerization & Kubernetes Orchestration
 
-**Student Name:** Akash  
-**Roll Number:** 2301730184  
-**GitHub Profile:** [@Akash2347](https://github.com/Akash2347)  
-**Repository:** [https://github.com/Akash2347/Devops-Lab-2.git](https://github.com/Akash2347/Devops-Lab-2.git)  
-**Email Address:** ad1646414@gmail.com
+**Student Name:** Sahil  
+**Roll Number:** 2301730193 
 **Course:** DevOps Engineering Laboratory  
 **Assessment:** Lab 2 Assessment (50 Marks Total)  
 **Environment:** Docker Engine 29.x, Docker Compose v5.x, Kubernetes (Minikube) v1.36 / v1.30, kubectl, Python 3.11/3.13  
